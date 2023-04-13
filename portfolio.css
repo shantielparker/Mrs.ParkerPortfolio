@@ -1,0 +1,95 @@
+portfolio.css
+
+
+{@media screen and (max-width: 380px) and (orientation: portrait) }
+    .advert-img {
+        width: 100%;
+    }
+                @media (min-width: 500px) {
+                    body {
+                        background: url("");
+                    }
+                }
+        
+                @media (min-width: 800px) {
+                    body {
+                        background: url("");
+                    }
+                }
+                                body {
+                                    background: url("");
+                                }
+                
+                                @media (min-width: 500px) {
+                                    body {
+                                        background-size: 50%;
+                                    }
+                                }
+                
+                                @media (min-width: 800px) {
+                                    body {
+                                        background-size: 80%;
+                                    }
+                                }
+
+         ;
+main {
+    width: 400%;
+    height: 60vh;
+    background-position-x: left;
+    backface-visibility: visible;
+    background-repeat: no-repeat, repeat;
+    background-image: url("seattle.jpg"); 
+    background-attachment: fixed;
+  
+
+}
+body {
+    background-position-x: center;
+    background-color: #70a0f7; 
+    background-repeat: no-repeat, repeat;
+    background-image: url("seattle vioduc.jpg"); fill-opacity: 0.5;
+    background-attachment: fixed;
+    background-size: cover;
+     font-size: small; color: rgb(3, 3, 3);
+    font-family: sans-serif;
+    font-variant: normal
+   
+}
+p {
+    margin-left: 14%;
+    font-size: xx-large; color: FFF8DC;
+    font-family: sans-serif;
+    font-variant: normal
+    
+}
+h1 {
+    font-size: small; color: #FFF8DC;
+    font-family: sans-serif;
+    font-variant: normal
+    
+}
+h2 {
+    font-size: small; color: #FFF8DC;
+    font-family: sans-serif;
+    font-variant: normal
+    
+}
+h3 {
+    font-size: small; color: #FFF8DC;
+    font-family: sans-serif;
+    font-variant: normal
+    
+}
+h4 {
+    font-size: small; color: #FFF8DC;
+    font-family: sans-serif;
+    font-variant: normal
+    
+}
+article {
+    font-size: large; color: rgb(3, 3, 3);
+    font-family: sans-serif;
+    font-variant: normal
+    
+}
