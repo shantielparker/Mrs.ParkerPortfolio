@@ -1,0 +1,93 @@
+about.css
+
+{@media screen and (max-width: 380px) and (orientation: portrait)
+
+}
+.advert-img {
+    width: 100%;
+}
+
+@media (min-width: 500px) {
+    body {
+        background: url("");
+        
+    }
+}
+
+@media (min-width: 800px) {
+    body {
+                background-position-x: left;
+                background-repeat: no-repeat, repeat;
+                background-attachment: fixed;
+                background-size: cover;
+        
+            }
+    }
+@media (min-width: 500px) {
+    body {
+        background-size: 50%;
+    }
+}
+
+@media (min-width: 800px) {
+    body {
+        background-size: 80%;
+    }
+}
+
+.parent {
+  display: flex;
+  flex-direction: row;
+}
+section {
+    display: flex;
+    justify-content: pace-between;
+    display: flex;
+        flex-direction: column;
+        justify-content: left;
+        align-items: center;
+        object-position: center;
+}
+
+article {
+    width: 5em;
+    padding: .7em;
+    border-radius: 3px;
+}
+
+article:nth-child(2) {
+    width: 5em;
+    padding: .7em;
+    border-radius: 3px;}
+
+article:last-child {
+    width: 5em;
+    padding: .7em;
+    border-radius: 3px;
+}
+.Services {
+background-color: #e1bebe;
+border: 3px solid black;
+font-size: medium;
+text-align: top-left;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+padding: 0.5%;
+ 
+}
+
+p {
+    font-size: x-large; color: #010101;
+    font-family: fantasy;
+    padding: 1%;
+    padding-bottom: 3%;
+}
+.div {
+    font-size: medium;
+
+}
+section {
+   
+        background: url("gum_wall.jpg") !important;
+    }

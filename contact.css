@@ -1,0 +1,43 @@
+contact.css
+
+{@media screen and (max-width: 380px) and (orientation: portrait)
+}
+
+.advert-img {
+    width: 100%;
+}
+
+@media (min-width: 500px) {
+    body {
+        background: url("");
+    }
+}
+
+@media (min-width: 800px) {
+    body {
+        background: url("");
+    }
+}
+
+body {
+    background: url("");
+}
+
+@media (min-width: 500px) {
+    body {
+        background-size: 50%;
+    }
+}
+
+@media (min-width: 800px) {
+    body {
+        background-size: 80%;
+    }
+}
+
+
+body {
+    background-position-x: center;
+    background-color:rgb(155, 240, 236); 
+    
+}
